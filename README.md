@@ -8,7 +8,7 @@ I'm a **Flutter Full-Stack Developer** and **C++ Enthusiast** with over 6 years 
 - **Python** for scripting and rapid prototyping
 - Familiar with **HTML, CSS**, and **JavaScript**
 
-### My favorite 'public' project is [Cravel](https://github.com/NamanGoyalK/CRAVEL-Overhauled.git)
+### My favorite *public* project is [Cravel](https://github.com/NamanGoyalK/CRAVEL-Overhauled.git)
 
 Some of my pinned projects include:
 - [Sorting Methods in C++](https://github.com/NamanGoyalK/Sorting-Methods-In-C): Various sorting techniques implemented in C++
