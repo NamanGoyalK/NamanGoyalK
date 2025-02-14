@@ -18,5 +18,5 @@ Some of my pinned projects include:
 I'm always eager to learn more and take on new challenges in the world of software development. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/naman-goyal-dev) or check out my repositories here on [GitHub](https://github.com/NamanGoyalK). Let's collaborate and build something amazing together! 💻
 
 ### 📫 How to reach me:
-- Email: naman.goyaltms@outlook.com
+- Email: namangoyaldev@gmail.com
 - LinkedIn: [Naman Goyal](https://www.linkedin.com/in/naman-goyal-dev)
