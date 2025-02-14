@@ -11,7 +11,7 @@ I'm a **Flutter Full-Stack Developer** and **C++ Enthusiast** with over 6 years 
 ### My favorite "public" project is [Cravel](https://github.com/NamanGoyalK/CRAVEL-Overhauled.git)
 
 Some of my pinned projects include:
-- [Sorting Methods in C++](https://github.com/NamanGoyalK/Sorting-Methods-In-C): Various sorting techniques implemented in C++
+- [Sorting Methods in C++](https://github.com/NamanGoyalK/Sorting-Methods-In-C-): Various sorting techniques implemented in C++
 - [Basic weather app](https://github.com/NamanGoyalK/Weather-Basic): A Flutter app for checking weather.
 - [TIK-TAK-TOE Python](https://github.com/NamanGoyalK/TIK-TAK-TOE-Python): A simple TIK-TAK-TOE game using Python
 
