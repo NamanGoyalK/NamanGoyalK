@@ -4,9 +4,9 @@ I'm a **Flutter Full-Stack Developer** and **C++ Enthusiast** with over 6 years 
 
 ### 🛠️ Tech Stack:
 - **Flutter** for mobile and cross-platform development
-- **C++** for system-level programming and problem-solving
+- **C & C++** for system-level programming and problem-solving
 - **Python** for scripting and rapid prototyping
-- Familiar with **HTML, CSS**, and **JavaScript**
+- Oops in **dart**.
 
 ### My favorite "public" project is [Cravel](https://github.com/NamanGoyalK/CRAVEL-Overhauled.git)
 
