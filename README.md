@@ -2,6 +2,8 @@
 
 I'm a **Flutter Full-Stack Developer** and **C++ Enthusiast** with over 6 years of coding experience. I enjoy solving complex problems through simple, efficient solutions. My passion lies in mobile and app development, and I love working on projects that push my limits. 🚀
 
+Download my app on Google Play: [Huddle](https://play.google.com/store/apps/details?id=com.namangoyaldev.huddle)
+
 ### 🛠️ Tech Stack:
 - **Flutter** for mobile and cross-platform development
 - **C & C++** for system-level programming and problem-solving
