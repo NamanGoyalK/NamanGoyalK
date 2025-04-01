@@ -13,7 +13,4 @@
 - 📫 **Connect** with me -
   - [![Email](https://img.shields.io/badge/GMAIL-namangoyaldev@gmail.com-005cb3.svg?style=flat&logo=Gmail&logoColor=ffffff&labelColor=0050b8)](mailto:namangoyaldev@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Goyal-005cb3.svg?style=flat&logo=LinkedIn&logoColor=ffffff&labelColor=0050b8)](https://www.linkedin.com/in/naman-goyal-dev)
-    
-- My stats:
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namangoyalk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
