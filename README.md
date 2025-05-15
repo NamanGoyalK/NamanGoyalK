@@ -1,4 +1,5 @@
 - 👋 Hi, I'm **Naman Goyal** a *Flutter Full-Stack Developer* and creator of [Huddle](https://play.google.com/store/apps/details?id=com.namangoyaldev.huddle).
+   - Check out my [portfolio](https://namangoyalk.vercel.app).
 - 👀 Passionate about **App Development** and in general *development* with over 6 years of coding experience.
 - 🌱 I'm currently learning advanced topics in **Flutter**
   I know:
@@ -8,4 +9,3 @@
 - 📫 **Connect** with me -
   - [![Email](https://img.shields.io/badge/GMAIL-namangoyaldev@gmail.com-005cb3.svg?style=flat&logo=Gmail&logoColor=ffffff&labelColor=0050b8)](mailto:namangoyaldev@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Goyal-005cb3.svg?style=flat&logo=LinkedIn&logoColor=ffffff&labelColor=0050b8)](https://www.linkedin.com/in/naman-goyal-dev)
-
