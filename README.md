@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="300">
-      <img src="https://roadmap.sh/card/tall/681869053da6ef5848df6e18?variant=dark&roadmaps=linux%2Cflutter%2Creact-native" alt="Roadmap Progress" width="290"/>
+    <td width="322">
+      <img src="https://roadmap.sh/card/tall/681869053da6ef5848df6e18?variant=dark&roadmaps=linux%2Cflutter%2Creact-native" alt="Roadmap Progress" width="310"/>
     </td>
     <td>
 
