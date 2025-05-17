@@ -26,8 +26,8 @@
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=namangoyalk&show_icons=true&theme=tokyonight&card_width=320" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoyalk&theme=tokyonight&card_width=420" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=namangoyalk&show_icons=true&theme=tokyonight&card_width=300" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoyalk&theme=tokyonight&card_width=400" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
