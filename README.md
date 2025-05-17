@@ -11,7 +11,7 @@
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Goyal-005cb3.svg?style=flat&logo=LinkedIn&logoColor=ffffff&labelColor=0050b8)](https://www.linkedin.com/in/naman-goyal-dev)
 - Here are my stats:
   
-   <p align="center">
+   <p align="left">
      <img src="https://github-readme-stats.vercel.app/api?username=namangoyalk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoyalk&theme=tokyonight" alt="GitHub Streak" />
    </p>
