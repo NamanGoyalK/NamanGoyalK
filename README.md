@@ -1,4 +1,4 @@
-- 👋 Hi, I'm **Naman Goyal** — a *Flutter Full-Stack Developer* and creator of [Huddle](https://play.google.com/store/apps/details?id=com.namangoyaldev.huddle).
+- 👋 Hi, I'm **Naman Goyal** — a *Flutter Full-Stack Developer*, Core member at Codechef VIT and creator of [Huddle](https://play.google.com/store/apps/details?id=com.namangoyaldev.huddle).
    - Check out my [portfolio](https://namangoyalk.vercel.app).
 - 👀 Passionate about **App Development** and general *development* with over 6 years of coding experience.
 - 🌱 Currently diving into **React Native** and exploring the depths of **Arch Linux** (yes, I use Arch, btw).
@@ -9,3 +9,12 @@
 - 📫 **Connect** with me:
   - [![Email](https://img.shields.io/badge/GMAIL-namangoyaldev@gmail.com-005cb3.svg?style=flat&logo=Gmail&logoColor=ffffff&labelColor=0050b8)](mailto:namangoyaldev@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Goyal-005cb3.svg?style=flat&logo=LinkedIn&logoColor=ffffff&labelColor=0050b8)](https://www.linkedin.com/in/naman-goyal-dev)
+- Here are my stats:
+  
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=namangoyalk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoyalk&theme=tokyonight" alt="GitHub Streak" />
+   </p>
+
+
+  
