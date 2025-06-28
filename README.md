@@ -1,5 +1,5 @@
 - 👋 Hi, I'm **Naman Goyal** — a *Flutter Full-Stack Developer*, Core member at Codechef VIT and creator of [Huddle](https://play.google.com/store/apps/details?id=com.namangoyaldev.huddle).
-   - Check out my [portfolio](https://namangoyalk.vercel.app).
+   - Check out my [portfolio](https://namangoyalk.github.io).
 - 👀 Passionate about **App Development** and general *development* with over 6 years of coding experience.
 - 🌱 Currently diving into **React Native** and exploring the depths of **Arch Linux** (yes, I use Arch, btw).
   I know:
