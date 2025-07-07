@@ -11,5 +11,5 @@
   - [![Email](https://img.shields.io/badge/GMAIL-namangoyaldev@gmail.com-005cb3.svg?style=flat&logo=Gmail&logoColor=ffffff&labelColor=0050b8)](mailto:namangoyaldev@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Goyal-005cb3.svg?style=flat&logo=LinkedIn&logoColor=ffffff&labelColor=0050b8)](https://www.linkedin.com/in/naman-goyal-dev)
 
+⚠️ Note: Contribution graph may not reflect all work due to private org repos.
 
-  
